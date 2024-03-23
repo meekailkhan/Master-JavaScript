@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10%;
+}
+button{
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    cursor: pointer;
+    background: whitesmoke;
+    border: 0.45rem solid darkgray;
+    border-radius: 1rem;
+    
+}
