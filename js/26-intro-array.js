@@ -29,3 +29,4 @@ console.log(Array.isArray(two))
 
 // how to call single value of array with index number 
 console.log(one[7])
+
